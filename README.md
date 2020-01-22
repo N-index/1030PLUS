@@ -14,3 +14,5 @@ By the way, project's name 「1030PLUS」 means that the project is finished in 
 Show you:
 
 ![runtime screenshot](https://github.com/dachuozi/1030PLUS/blob/master/runtime%20screenshot.png)
+
+The only reget thing is that code was lost...
